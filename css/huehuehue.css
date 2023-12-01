@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffc0cb;
+}
+
+.gay-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.gay-text {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4em;
+  color: #ff69b4;
+  text-align: center;
+  text-shadow: 2px 2px 5px #ff1493;
+}
